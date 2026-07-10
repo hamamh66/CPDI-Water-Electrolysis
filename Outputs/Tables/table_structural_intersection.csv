@@ -1,0 +1,5 @@
+system,inter_lo,inter_hi,j_spread,all_coverage_active
+alkaline_finite_gap,0.1785,0.352,0.0248,True
+alkaline_zero_gap,0.3817,0.7434,0.0545,True
+PEM,1.4766,2.2,0.0991,True
+AEM,0.5105,0.996,0.0744,True
